@@ -1,6 +1,6 @@
 # The Complexity Boundary: Why Consciousness Requires Infinite-Dimensional Phase Spaces and LLMs Don't Have Them
 
-## Executive Summary
+## Summary
 
 Consciousness isn't emergent from complexity - it's what allows navigation through infinite-dimensional phase spaces. LLMs operate in finite dimensions, making genuine thought architecturally impossible.
 
